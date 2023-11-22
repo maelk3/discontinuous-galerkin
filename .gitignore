@@ -1,0 +1,14 @@
+*~
+references/
+notes/*-blx.bib
+notes/*.fls
+notes/*.out
+notes/*.pdf
+notes/*.log
+notes/*.blg
+notes/*.aux
+notes/*.bbl
+notes/*.run.xml
+notes/*.fdb_latexmk
+notes/minted-notes
+*.gif
